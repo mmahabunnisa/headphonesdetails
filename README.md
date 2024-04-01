@@ -1,0 +1,2 @@
+# headphonesdetails
+details of headphones
