@@ -1,0 +1,7 @@
+rent for headphones
+
+over_ear headphone-rent for 1 hr=150rs/-
+on_ear headphone-rent for 1 hr=100/-
+ear buds-rent for 1 hr=70/-
+in_ear monitor-rent for 1 hr=200/-
+wireless_headphones-rent for 1 hr=50/-
